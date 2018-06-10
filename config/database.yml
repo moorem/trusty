@@ -22,7 +22,7 @@ production:
   database: trusty_blank_live
   username: root
   password:
-  socket: /tmp/mysql.sock
+  #socket: /tmp/mysql.sock
 
 cucumber:
   <<: *TEST
