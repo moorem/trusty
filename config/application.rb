@@ -149,6 +149,6 @@ module TrustyCms
       end
     end
 
-    config.extensions = [ :snippets, :clipped, :multi_site ]
+    config.extensions = [ :snippets, :clipped, :layouts, :multi_site ]
   end
 end
