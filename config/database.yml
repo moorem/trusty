@@ -19,7 +19,7 @@ test: &TEST
 
 production:
   adapter: mysql2
-  database: trusty_blank_live
+  database: trusty_blank_dev
   username: root
   password:
   #socket: /tmp/mysql.sock
